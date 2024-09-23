@@ -22,8 +22,7 @@
   - Intent Validation: 95% accuracy.
   - Dialogue State Tracking: 92% accuracy using rule-based methods, with enhanced contextual accuracy via GPT-based methods.
   - Answer Generation: Produces relevant responses by leveraging the conversation history and state.
-   ```
-
+  
 ## Usage
 
 1. The system is built to handle multi-turn conversations based on an open-domain dataset.
